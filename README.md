@@ -4,7 +4,6 @@ I'm a passionate developer with experience in **Web Development**, **Mobile Deve
 
 - 🌱 Currently learning: **Next.js**, **Nest.js**, **AWS**
 - 💬 Ask me about: **JavaScript**, **React**, **Node.js**
-- 📫 How to reach me: [Email](mailto:your.email@example.com)
 
 ## 🚀 Tech Stack
 
