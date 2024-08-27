@@ -18,10 +18,6 @@ I'm a passionate developer with experience in **Web Development**, **Mobile Deve
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boom0704&layout=compact&theme=radical)
 
-## 🏆 Achievements
-
-- ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2023-blueviolet?style=flat)
-- ![Top Contributor](https://img.shields.io/badge/Top%20Contributor-OpenSource-brightgreen?style=flat)
 
 ## 📫 Connect with me
 
