@@ -22,3 +22,6 @@ I'm a passionate developer with experience in **Web Development**, **Mobile Deve
 ## 📫 Connect with me
 
 [![GitHub Follow](https://img.shields.io/github/followers/Boom0704?label=Follow&style=social)](https://github.com/Boom0704)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=merko&locale=ko&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
