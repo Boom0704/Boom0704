@@ -22,9 +22,7 @@
   <img src="https://streak-stats.demolab.com?user=Boom0704&theme=merko&locale=ko&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat" alt="GitHub Streak"/>
 </p>
 
-## 📈 활동 그래프
 ## 📈 활동 그래프 및 연속 커밋
-
 <table>
   <tr>
     <td>
