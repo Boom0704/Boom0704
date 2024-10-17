@@ -14,9 +14,7 @@ I'm a passionate developer with experience in **Web Development**, **Mobile Deve
 
 ## 📊 GitHub Stats
 
-![Boom0704's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boom0704&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boom0704&layout=compact&theme=radical)
+![Boom0704's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boom0704&show_icons=true&theme=radical)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boom0704&layout=compact&theme=radical)
 
 
 ## 📫 Connect with me
