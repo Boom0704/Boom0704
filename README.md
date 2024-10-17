@@ -24,7 +24,7 @@
 
 ## 📈 활동 그래프
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Boom0704&theme=github" alt="Boom0704's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boom0704&theme=github" alt="Boom0704's Activity Graph"/>
 </p>
 
 ## 📫 나와 연결하기
