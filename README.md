@@ -23,9 +23,25 @@
 </p>
 
 ## 📈 활동 그래프
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boom0704&theme=github" alt="Boom0704's Activity Graph"/>
-</p>
+## 📈 활동 그래프 및 연속 커밋
+
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Boom0704&theme=github" alt="Boom0704's Activity Graph"/>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=Boom0704&theme=merko&locale=ko&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat" alt="GitHub Streak"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ## 📫 나와 연결하기
 <p align="center">
