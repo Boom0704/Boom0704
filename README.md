@@ -24,9 +24,7 @@
 
 ## 📈 활동 그래프
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Boom0704&theme=github" alt="Boom0704's Activity Graph"/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=&theme=merko&locale=ko&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Boom0704&theme=merko&locale=ko&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Boom0704&theme=github" alt="Boom0704's Activity Graph"/>
 </p>
 
 ## 📫 나와 연결하기
